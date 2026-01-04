@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78db298250d5d4a5",
+        "id": "34a0740eb0d95faf",
         "type": "tabs",
         "children": [
           {
-            "id": "1f93e8ca420ea69c",
+            "id": "42f4afc6836d060f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "666.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "666"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "666.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "666 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "666.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "666 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "666.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "666 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -184,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f93e8ca420ea69c",
+  "active": "42f4afc6836d060f",
   "lastOpenFiles": [
     "666.md",
     "2026-01-04.md",
