@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VScode/注意事项.md",
+                "file": "基于cubemxHal库/GPIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "注意事项"
+              "title": "GPIO"
             }
           }
         ],
@@ -255,19 +255,22 @@
   },
   "active": "b13e0f1b9ad63d3b",
   "lastOpenFiles": [
-    "VScode",
-    "基于cubemxHal库/GPIO.md",
-    "VScode/注意事项.md",
     "基于cubemxHal库/时钟树.md",
     "基于cubemxHal库/注意事项.md",
-    "GitHub/注意事项.md",
+    "基于cubemxHal库/GPIO.md",
+    "VScode/注意事项.md",
+    "Pasted image 20260105212808.png",
+    "Pasted image 20260105212212.png",
+    "Pasted image 20260105212342.png",
     "Pasted image 20260105213006.png",
+    "Pasted image 20260107095339.png",
+    "Pasted image 20260107095302.png",
+    "未命名 1/地面站.md",
+    "GitHub/注意事项.md",
+    "未命名/GPIO.md",
+    "VScode",
     "按键消抖.md",
     "GitHub",
-    "未命名/GPIO.md",
-    "Pasted image 20260105212808.png",
-    "Pasted image 20260105212342.png",
-    "Pasted image 20260105212212.png",
     "Pasted image 20260105212157.png",
     "未命名/fe79f25234860764f8d1f74f656d23f4.jpg",
     "未命名 2.md",
@@ -275,7 +278,6 @@
     "基于cubemxHal库",
     "未命名 1",
     "未命名",
-    "未命名 1/地面站.md",
     "fe79f25234860764f8d1f74f656d23f4 1.jpg",
     "未命名/666.md",
     "2026-01-04.md"
