@@ -88,9 +88,51 @@
               "icon": "lucide-file",
               "title": "GPIO"
             }
+          },
+          {
+            "id": "bd5c3969aeac0109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基于cubemxHal库/cube配置定时器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cube配置定时器"
+            }
+          },
+          {
+            "id": "00bdeb45b20f9ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基于cubemxHal库/时钟树.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "时钟树"
+            }
+          },
+          {
+            "id": "3fbbe82430331416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EIDE/基本步骤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基本步骤"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -253,11 +295,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b13e0f1b9ad63d3b",
+  "active": "3fbbe82430331416",
   "lastOpenFiles": [
     "基于cubemxHal库/时钟树.md",
-    "基于cubemxHal库/注意事项.md",
+    "EIDE/基本步骤.md",
+    "EIDE",
+    "基于cubemxHal库/cube配置定时器.md",
+    "基于cubemxHal库/未命名.md",
+    "Pasted image 20260108095405.png",
+    "Pasted image 20260108095304.png",
+    "Pasted image 20260108095108.png",
+    "Pasted image 20260108094950.png",
     "基于cubemxHal库/GPIO.md",
+    "基于cubemxHal库/未命名 2",
+    "基于cubemxHal库/注意事项.md",
     "VScode/注意事项.md",
     "Pasted image 20260105212808.png",
     "Pasted image 20260105212212.png",
@@ -271,14 +322,11 @@
     "VScode",
     "按键消抖.md",
     "GitHub",
-    "Pasted image 20260105212157.png",
-    "未命名/fe79f25234860764f8d1f74f656d23f4.jpg",
     "未命名 2.md",
     "未命名 1.md",
     "基于cubemxHal库",
     "未命名 1",
     "未命名",
-    "fe79f25234860764f8d1f74f656d23f4 1.jpg",
     "未命名/666.md",
     "2026-01-04.md"
   ]

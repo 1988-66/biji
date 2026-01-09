@@ -59,3 +59,21 @@ GPIO 有八种工作模式，分别是：
 
 ![9a2fdeea89004d898c912e0e5cb25621.png](https://i-blog.csdnimg.cn/direct/9a2fdeea89004d898c912e0e5cb25621.png)
 MX_GPIO_Init();//GPIO 初始化
+/* GPIO初始化 */
+void HAL_GPIO_Init(GPIO_TypeDef *GPIOx, GPIO_InitTypeDef *GPIO_Init);
+ 
+/* 在函数初始化之后的引脚恢复成默认的转态 */
+void HAL_GPIO_DeInit(GPIO_TypeDef *GPIOx, uint32_t GPIO_Pin);
+ 
+/* 读取引脚的电平转态 */
+GPIO_PinState HAL_GPIO_ReadPin(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
+/* 引脚写1或0 */
+void HAL_GPIO_WritePin(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin, GPIO_PinState PinState);
+/* 翻转引脚电平 */
+void HAL_GPIO_TogglePin(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
+/* 锁住GPIO的配置、读取、写入状态等操作 */
+HAL_StatusTypeDef HAL_GPIO_LockPin(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
+/* 外部中断回调函数，清除中断标志位 */
+void HAL_GPIO_EXTI_IRQHandler(uint16_t GPIO_Pin);
+/* 中断回调函数，中断函数响应动作 */
+void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin);
