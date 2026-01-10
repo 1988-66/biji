@@ -123,16 +123,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EIDE/基本步骤.md",
+                "file": "VScode/注意事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本步骤"
+              "title": "注意事项"
+            }
+          },
+          {
+            "id": "2a3612e3d25133cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "地面站/UWB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UWB"
+            }
+          },
+          {
+            "id": "8448e9de9d17362e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "地面站/UWB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UWB"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -295,39 +323,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fbbe82430331416",
+  "active": "8448e9de9d17362e",
   "lastOpenFiles": [
-    "基于cubemxHal库/时钟树.md",
-    "EIDE/基本步骤.md",
-    "EIDE",
-    "基于cubemxHal库/cube配置定时器.md",
-    "基于cubemxHal库/未命名.md",
-    "Pasted image 20260108095405.png",
-    "Pasted image 20260108095304.png",
-    "Pasted image 20260108095108.png",
-    "Pasted image 20260108094950.png",
-    "基于cubemxHal库/GPIO.md",
-    "基于cubemxHal库/未命名 2",
-    "基于cubemxHal库/注意事项.md",
+    "Pasted image 20260109183710.png",
     "VScode/注意事项.md",
-    "Pasted image 20260105212808.png",
+    "基于cubemxHal库/cube配置定时器.md",
+    "地面站/LinkPG定位系统.md",
+    "Pasted image 20260109112139.png",
+    "Pasted image 20260109104004.png",
+    "Pasted image 20260109103917.png",
+    "地面站/UWB.md",
+    "Pasted image 20260109095517.png",
     "Pasted image 20260105212212.png",
     "Pasted image 20260105212342.png",
-    "Pasted image 20260105213006.png",
-    "Pasted image 20260107095339.png",
-    "Pasted image 20260107095302.png",
-    "未命名 1/地面站.md",
-    "GitHub/注意事项.md",
-    "未命名/GPIO.md",
-    "VScode",
     "按键消抖.md",
+    "Pasted image 20260108094950.png",
+    "Pasted image 20260108095304.png",
+    "Pasted image 20260108095405.png",
+    "基于cubemxHal库/GPIO.md",
+    "未命名/GPIO.md",
+    "未命名/fe79f25234860764f8d1f74f656d23f4.jpg",
+    "未命名/666.md",
+    "EIDE/基本步骤.md",
+    "地面站",
+    "未命名 1/地面站.md",
+    "基于cubemxHal库/时钟树.md",
+    "EIDE",
+    "基于cubemxHal库/未命名.md",
+    "基于cubemxHal库/未命名 2",
+    "基于cubemxHal库/注意事项.md",
+    "GitHub/注意事项.md",
+    "VScode",
     "GitHub",
     "未命名 2.md",
     "未命名 1.md",
     "基于cubemxHal库",
-    "未命名 1",
     "未命名",
-    "未命名/666.md",
     "2026-01-04.md"
   ]
 }
