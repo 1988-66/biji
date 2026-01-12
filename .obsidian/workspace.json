@@ -151,12 +151,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地面站/UWB.md",
+                "file": "VScode/注意事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UWB"
+              "title": "注意事项"
             }
           }
         ],
@@ -325,6 +325,7 @@
   },
   "active": "8448e9de9d17362e",
   "lastOpenFiles": [
+    "地面站/UWB.md",
     "Pasted image 20260109183710.png",
     "VScode/注意事项.md",
     "基于cubemxHal库/cube配置定时器.md",
@@ -332,7 +333,6 @@
     "Pasted image 20260109112139.png",
     "Pasted image 20260109104004.png",
     "Pasted image 20260109103917.png",
-    "地面站/UWB.md",
     "Pasted image 20260109095517.png",
     "Pasted image 20260105212212.png",
     "Pasted image 20260105212342.png",
@@ -342,7 +342,6 @@
     "Pasted image 20260108095405.png",
     "基于cubemxHal库/GPIO.md",
     "未命名/GPIO.md",
-    "未命名/fe79f25234860764f8d1f74f656d23f4.jpg",
     "未命名/666.md",
     "EIDE/基本步骤.md",
     "地面站",
