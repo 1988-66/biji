@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "硬件"
             }
+          },
+          {
+            "id": "85c5d381eecaf282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "程序"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -297,8 +311,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5880ecc1c37c5b05",
+  "active": "85c5d381eecaf282",
   "lastOpenFiles": [
+    "Pasted image 20260115102621.png",
+    "WHEELTEC/硬件.md",
+    "程序.md",
     "QQ_1768361229279.png",
     "Pasted image 20260114110156.png",
     "Pasted image 20260114105414.png",
@@ -308,7 +325,6 @@
     "Pasted image 20260114104906.png",
     "Pasted image 20260114104744.png",
     "WHEELTEC/桨叶.md",
-    "WHEELTEC/硬件.md",
     "Pasted image 20260114104523.png",
     "WHEELTEC/转动惯量.md",
     "Pasted image 20260114103953.png",
@@ -327,7 +343,6 @@
     "地面站/UWB.md",
     "地面站/LinkPG定位系统.md",
     "Pasted image 20260109183710.png",
-    "Pasted image 20260105212212.png",
     "防按键误触/按键消抖.md",
     "防按键误触/按键的上锁与解锁.md",
     "防按键误触",
@@ -343,7 +358,6 @@
     "GitHub/注意事项.md",
     "VScode",
     "GitHub",
-    "未命名 2.md",
     "基于cubemxHal库"
   ]
 }
