@@ -4,151 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ab68394fcf4331b4",
+        "id": "f3e9d5b4de28a53a",
         "type": "tabs",
         "children": [
           {
-            "id": "d0550355edc3a1d7",
+            "id": "d1d8769d418b48bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32F407VET6/注意事项.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "注意事项"
-            }
-          },
-          {
-            "id": "13c9e07cf71c11f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stmf4四轮/Encoder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Encoder"
-            }
-          },
-          {
-            "id": "affb4db1727ea6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stmf4四轮/TIM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIM"
-            }
-          },
-          {
-            "id": "47a4d2fe434620fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stmf4四轮/TIM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIM"
-            }
-          },
-          {
-            "id": "a236c49ed729848c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/硬件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "硬件"
-            }
-          },
-          {
-            "id": "55dc9be916da824b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/转动惯量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "转动惯量"
-            }
-          },
-          {
-            "id": "3905e1bac1ee3699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/桨叶.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "桨叶"
-            }
-          },
-          {
-            "id": "6b2e2123745558db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/飞控.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "飞控"
-            }
-          },
-          {
-            "id": "5880ecc1c37c5b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/硬件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "硬件"
-            }
-          },
-          {
-            "id": "85c5d381eecaf282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/程序.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "程序"
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,25 +184,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85c5d381eecaf282",
+  "active": "2bd7e8519ef2cc98",
   "lastOpenFiles": [
+    "未命名",
+    "未命名.md",
+    "WHEELTEC/硬件.md",
+    "WHEELTEC/Freertos程序.md",
+    "WHEELTEC/陀螺仪（ICM20948）.md",
+    "Pasted image 20260116205909.png",
+    "Pasted image 20260116205850.png",
+    "WHEELTEC/飞控.md",
+    "WHEELTEC/桨叶.md",
+    "WHEELTEC/转动惯量.md",
+    "WHEELTEC/程序提醒.md",
+    "Pasted image 20260116204524.png",
+    "Pasted image 20260116204351.png",
+    "Pasted image 20260116204317.png",
+    "Pasted image 20260116203634.png",
+    "Pasted image 20260116200858.png",
     "Pasted image 20260115163152.png",
     "Pasted image 20260115163042.png",
     "Pasted image 20260115162955.png",
-    "Pasted image 20260115162323.png",
-    "Pasted image 20260115162140.png",
-    "Pasted image 20260115161749.png",
-    "Pasted image 20260115161719.png",
-    "Pasted image 20260115161145.png",
-    "Pasted image 20260115161127.png",
     "WHEELTEC/电调.md",
-    "WHEELTEC/转动惯量.md",
-    "WHEELTEC/桨叶.md",
-    "WHEELTEC/飞控.md",
-    "WHEELTEC/硬件.md",
-    "WHEELTEC/程序.md",
-    "Pasted image 20260115102621.png",
-    "QQ_1768361229279.png",
     "stmf4四轮/TIM.md",
     "WHEELTEC",
     "stmf4四轮/PWM.md",
@@ -351,11 +227,8 @@
     "未命名/GPIO.md",
     "未命名/666.md",
     "地面站",
-    "未命名 1/地面站.md",
     "EIDE",
-    "基于cubemxHal库/未命名.md",
     "基于cubemxHal库/未命名 2",
-    "GitHub/注意事项.md",
     "VScode",
     "GitHub",
     "基于cubemxHal库"

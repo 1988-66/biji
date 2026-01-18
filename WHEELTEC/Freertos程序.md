@@ -1,7 +1,7 @@
 1.![[Pasted image 20260115102621.png]]
 BootLoader程序占64kb。
 2.记得没有写自动复位时，要手动复位。
-3.FreeRTOS
+**3.FreeRTOS**
 （1）
 ![[Pasted image 20260115161127.png]]
 ![[Pasted image 20260115161145.png]]
@@ -18,3 +18,11 @@ BootLoader程序占64kb。
 总的空间：
 ![[Pasted image 20260115163152.png]]
 ![[Pasted image 20260115162955.png]]
+（5）打印栈的占用情况
+![[Pasted image 20260116200858.png]]
+其中空闲任务占大头。
+（6）freertos提醒
+![[Pasted image 20260116203634.png]]
+只要不特意在stm32cubemx修改过，5就不会发生
+（6）Freertos的常用API函数
+![[Pasted image 20260116204524.png]]
