@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e9d5b4de28a53a",
+        "id": "4381a1e8c609123c",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d8769d418b48bc",
+            "id": "a50ca6fed98346a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "PWM与编码器/1.认知概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "1.认知概念"
+            }
+          },
+          {
+            "id": "e80e7cca12523152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWM与编码器/最好的搭配.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最好的搭配"
+            }
+          },
+          {
+            "id": "eb9c5cbd2e0b3117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWM与编码器/最好的搭配.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最好的搭配"
+            }
+          },
+          {
+            "id": "8fd5fd9a22d2b4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWM与编码器/补充知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "补充知识"
+            }
+          },
+          {
+            "id": "023261717d20d877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWM与编码器/最好的搭配.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最好的搭配"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,10 +241,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bd7e8519ef2cc98",
+  "active": "023261717d20d877",
   "lastOpenFiles": [
-    "未命名",
-    "未命名.md",
+    "PWM与编码器/2.问题与疑惑.md",
+    "PWM与编码器/最好的搭配.md",
+    "PWM与编码器/1.认知概念.md",
+    "TB6612最小封装/引脚功用.md",
+    "Pasted image 20260118130411.png",
+    "PWM与编码器/补充知识.md",
+    "TB6612最小封装",
+    "PWM与编码器",
     "WHEELTEC/硬件.md",
     "WHEELTEC/Freertos程序.md",
     "WHEELTEC/陀螺仪（ICM20948）.md",
@@ -204,7 +267,6 @@
     "Pasted image 20260116200858.png",
     "Pasted image 20260115163152.png",
     "Pasted image 20260115163042.png",
-    "Pasted image 20260115162955.png",
     "WHEELTEC/电调.md",
     "stmf4四轮/TIM.md",
     "WHEELTEC",
@@ -222,15 +284,9 @@
     "防按键误触/按键消抖.md",
     "防按键误触/按键的上锁与解锁.md",
     "防按键误触",
-    "基于cubemxHal库/cube配置定时器.md",
-    "基于cubemxHal库/GPIO.md",
-    "未命名/GPIO.md",
-    "未命名/666.md",
     "地面站",
     "EIDE",
     "基于cubemxHal库/未命名 2",
-    "VScode",
-    "GitHub",
-    "基于cubemxHal库"
+    "VScode"
   ]
 }
