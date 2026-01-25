@@ -4,193 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4381a1e8c609123c",
+        "id": "0d47dee817cff1e4",
         "type": "tabs",
         "children": [
           {
-            "id": "a50ca6fed98346a1",
+            "id": "80c78e47972e28b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PWM与编码器/1.认知概念.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.认知概念"
-            }
-          },
-          {
-            "id": "e80e7cca12523152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/最好的搭配.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最好的搭配"
-            }
-          },
-          {
-            "id": "eb9c5cbd2e0b3117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/最好的搭配.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最好的搭配"
-            }
-          },
-          {
-            "id": "8fd5fd9a22d2b4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/补充知识.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "补充知识"
-            }
-          },
-          {
-            "id": "023261717d20d877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/最好的搭配.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最好的搭配"
-            }
-          },
-          {
-            "id": "74971529f99742d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/陀螺仪（ICM20948）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "陀螺仪（ICM20948）"
-            }
-          },
-          {
-            "id": "011aa99b52f06919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/最好的搭配.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最好的搭配"
-            }
-          },
-          {
-            "id": "6eb384d156bda746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/2.问题与疑惑.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.问题与疑惑"
-            }
-          },
-          {
-            "id": "49988f3c62fac552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/编码器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "编码器"
-            }
-          },
-          {
-            "id": "c4f8ce31ef86bc37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/飞行器的无刷电机控制.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "飞行器的无刷电机控制"
-            }
-          },
-          {
-            "id": "722422986d2f499f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWM与编码器/补充知识.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "补充知识"
-            }
-          },
-          {
-            "id": "0e5b7ce4f5f4caf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WHEELTEC/飞行器的无刷电机控制.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "飞行器的无刷电机控制"
-            }
-          },
-          {
-            "id": "fbad15fa8fedf70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MG513P30带霍尔编码器/数据手册.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数据手册"
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,24 +184,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbad15fa8fedf70b",
+  "active": "80c78e47972e28b6",
   "lastOpenFiles": [
+    "未命名.md",
+    "提问的智慧",
+    "WHEELTEC/电压与电流的数据采集.md",
+    "WHEELTEC/飞行高度获取.md",
+    "Pasted image 20260124214300.png",
+    "Pasted image 20260124212358.png",
+    "Pasted image 20260124210950.png",
+    "Pasted image 20260124210831.png",
+    "Pasted image 20260124205052.png",
+    "Pasted image 20260124204407.png",
+    "Pasted image 20260124203205.png",
+    "Pasted image 20260124143025.png",
+    "Pasted image 20260124142826.png",
+    "Pasted image 20260124142600.png",
+    "WHEELTEC/陀螺仪（ICM20948）.md",
     "WHEELTEC/飞行器的无刷电机控制.md",
-    "Pasted image 20260122211211.png",
-    "Pasted image 20260122211058.png",
+    "EIDE/基本步骤.md",
+    "Keil5/找不到文件路径.md",
+    "VScode/注意事项.md",
+    "MG513P30带霍尔编码器/数据手册.md",
     "PWM与编码器/最好的搭配.md",
     "PWM与编码器/编码器.md",
     "C语言/左移与右移.md",
-    "Pasted image 20260122171736.png",
-    "未命名",
     "未命名/未命名.md",
     "C语言",
-    "Pasted image 20260122154311.png",
-    "Pasted image 20260122153819.png",
-    "Pasted image 20260122152551.png",
-    "Pasted image 20260122152056.png",
     "定时器TIM/注意事项.md",
-    "MG513P30带霍尔编码器/数据手册.md",
     "PWM与编码器/计数频率与周期.md",
     "PWM与编码器/补充知识.md",
     "PWM与编码器/2.问题与疑惑.md",
@@ -378,24 +219,15 @@
     "stmf4四轮/Encoder.md",
     "stmf4四轮/PWM.md",
     "stmf4四轮/TIM.md",
-    "Pasted image 20260122150257.png",
     "Snipaste/截图软件.md",
     "Snipaste",
-    "Pasted image 20260122135007.png",
-    "Pasted image 20260122134931.png",
     "定时器TIM",
-    "WHEELTEC/陀螺仪（ICM20948）.md",
     "WHEELTEC/Freertos程序.md",
-    "Keil5/找不到文件路径.md",
     "Keil5",
     "WHEELTEC/程序提醒.md",
     "WHEELTEC/硬件.md",
     "WHEELTEC/飞控.md",
-    "WHEELTEC/电调.md",
-    "VScode/注意事项.md",
-    "EIDE/基本步骤.md",
     "MG513P30带霍尔编码器",
-    "TB6612最小封装/引脚功用.md",
     "TB6612最小封装",
     "PWM与编码器",
     "WHEELTEC",
