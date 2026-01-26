@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "中科大电控/提问的智慧/提问的过程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "提问的过程"
+            }
+          },
+          {
+            "id": "c0c8e7006661caf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中科大电控/STM32单片机环境配置/robomasker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "robomasker"
+            }
+          },
+          {
+            "id": "016b41939612d64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHEELTEC/飞行高度获取.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "飞行高度获取"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,24 +213,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80c78e47972e28b6",
+  "active": "016b41939612d64e",
   "lastOpenFiles": [
-    "未命名.md",
-    "提问的智慧",
-    "WHEELTEC/电压与电流的数据采集.md",
+    "中科大电控/STM32单片机环境配置/stm32&stm8单片机产品型号.md",
+    "中科大电控/STM32单片机环境配置/robomasker.md",
+    "Pasted image 20260125143440.png",
+    "Pasted image 20260125142948.png",
+    "Pasted image 20260125142551.png",
+    "Pasted image 20260125133627.png",
+    "Pasted image 20260125133427.png",
+    "Pasted image 20260125132139.png",
+    "Pasted image 20260125131851.png",
+    "中科大电控/提问的智慧/提问的过程.md",
+    "中科大电控/STM32单片机环境配置",
     "WHEELTEC/飞行高度获取.md",
+    "中科大电控",
+    "WHEELTEC/电压与电流的数据采集.md",
+    "WHEELTEC/飞行器的无刷电机控制.md",
+    "Pasted image 20260125124847.png",
+    "中科大电控/提问的智慧",
     "Pasted image 20260124214300.png",
     "Pasted image 20260124212358.png",
-    "Pasted image 20260124210950.png",
-    "Pasted image 20260124210831.png",
-    "Pasted image 20260124205052.png",
-    "Pasted image 20260124204407.png",
-    "Pasted image 20260124203205.png",
-    "Pasted image 20260124143025.png",
-    "Pasted image 20260124142826.png",
-    "Pasted image 20260124142600.png",
     "WHEELTEC/陀螺仪（ICM20948）.md",
-    "WHEELTEC/飞行器的无刷电机控制.md",
     "EIDE/基本步骤.md",
     "Keil5/找不到文件路径.md",
     "VScode/注意事项.md",
@@ -224,13 +257,8 @@
     "定时器TIM",
     "WHEELTEC/Freertos程序.md",
     "Keil5",
-    "WHEELTEC/程序提醒.md",
-    "WHEELTEC/硬件.md",
-    "WHEELTEC/飞控.md",
     "MG513P30带霍尔编码器",
     "TB6612最小封装",
-    "PWM与编码器",
-    "WHEELTEC",
-    "stmf4四轮"
+    "PWM与编码器"
   ]
 }
