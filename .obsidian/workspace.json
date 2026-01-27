@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WHEELTEC/飞行高度获取.md",
+                "file": "中科大电控/STM32单片机环境配置/stm32&stm8单片机产品型号.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "飞行高度获取"
+              "title": "stm32&stm8单片机产品型号"
+            }
+          },
+          {
+            "id": "8ffac9c7f3583d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中科大电控/GPIO输出电压/单片机的结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "单片机的结构"
+            }
+          },
+          {
+            "id": "a48f7e337bd66382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHEELTEC/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,27 +241,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "016b41939612d64e",
+  "active": "a48f7e337bd66382",
   "lastOpenFiles": [
+    "中科大电控/GPIO输出电压/单片机的结构.md",
+    "WHEELTEC/未命名.md",
+    "Pasted image 20260126215429.png",
+    "Pasted image 20260126215259.png",
+    "Pasted image 20260126211319.png",
+    "Pasted image 20260126211218.png",
+    "Pasted image 20260126210836.png",
+    "Pasted image 20260126210737.png",
+    "Pasted image 20260126210303.png",
+    "Pasted image 20260126205845.png",
+    "Pasted image 20260126205748.png",
+    "Pasted image 20260126205719.png",
     "中科大电控/STM32单片机环境配置/stm32&stm8单片机产品型号.md",
+    "中科大电控/GPIO输出电压",
+    "中科大电控/未命名",
+    "WHEELTEC/飞行高度获取.md",
     "中科大电控/STM32单片机环境配置/robomasker.md",
-    "Pasted image 20260125143440.png",
-    "Pasted image 20260125142948.png",
-    "Pasted image 20260125142551.png",
-    "Pasted image 20260125133627.png",
-    "Pasted image 20260125133427.png",
-    "Pasted image 20260125132139.png",
-    "Pasted image 20260125131851.png",
     "中科大电控/提问的智慧/提问的过程.md",
     "中科大电控/STM32单片机环境配置",
-    "WHEELTEC/飞行高度获取.md",
     "中科大电控",
     "WHEELTEC/电压与电流的数据采集.md",
     "WHEELTEC/飞行器的无刷电机控制.md",
-    "Pasted image 20260125124847.png",
     "中科大电控/提问的智慧",
-    "Pasted image 20260124214300.png",
-    "Pasted image 20260124212358.png",
     "WHEELTEC/陀螺仪（ICM20948）.md",
     "EIDE/基本步骤.md",
     "Keil5/找不到文件路径.md",
@@ -255,10 +287,7 @@
     "Snipaste/截图软件.md",
     "Snipaste",
     "定时器TIM",
-    "WHEELTEC/Freertos程序.md",
     "Keil5",
-    "MG513P30带霍尔编码器",
-    "TB6612最小封装",
-    "PWM与编码器"
+    "MG513P30带霍尔编码器"
   ]
 }
