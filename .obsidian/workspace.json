@@ -69,16 +69,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WHEELTEC/未命名.md",
+                "file": "WHEELTEC/USB手柄遥控数据获取.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "USB手柄遥控数据获取"
+            }
+          },
+          {
+            "id": "8bdb22bd81a3d735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中科大电控/EXTI外部中断/NVIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NVIC"
+            }
+          },
+          {
+            "id": "da6580f72b0bf17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/左移与右移.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "左移与右移"
+            }
+          },
+          {
+            "id": "c9f418f3ec4204d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/变量/变量概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "变量概念"
+            }
+          },
+          {
+            "id": "88bee80ae1013a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/变量/变量概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "变量概念"
+            }
+          },
+          {
+            "id": "6575078aeab49eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/常量与宏定义/概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概念"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -241,20 +311,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a48f7e337bd66382",
+  "active": "6575078aeab49eeb",
   "lastOpenFiles": [
+    "C语言/变量/变量概念.md",
+    "C语言/变量/程序展示.md",
+    "C语言/常量与宏定义/概念.md",
+    "C语言/常量与宏定义",
+    "Pasted image 20260127235348.png",
+    "Pasted image 20260127234700.png",
+    "Pasted image 20260127234516.png",
+    "Pasted image 20260127234244.png",
+    "C语言/左移与右移.md",
+    "C语言/变量",
+    "防按键误触/按键消抖.md",
+    "中科大电控/EXTI外部中断/按键消抖.md",
+    "Pasted image 20260127172935.png",
+    "Pasted image 20260127172737.png",
+    "Pasted image 20260127172635.png",
+    "Pasted image 20260127172444.png",
+    "Pasted image 20260127172242.png",
+    "中科大电控/EXTI外部中断/NVIC.md",
+    "防按键误触/按键的上锁与解锁.md",
+    "Pasted image 20260127170914.png",
+    "WHEELTEC/USB手柄遥控数据获取.md",
+    "中科大电控/EXTI外部中断",
     "中科大电控/GPIO输出电压/单片机的结构.md",
-    "WHEELTEC/未命名.md",
-    "Pasted image 20260126215429.png",
-    "Pasted image 20260126215259.png",
-    "Pasted image 20260126211319.png",
-    "Pasted image 20260126211218.png",
-    "Pasted image 20260126210836.png",
-    "Pasted image 20260126210737.png",
-    "Pasted image 20260126210303.png",
-    "Pasted image 20260126205845.png",
-    "Pasted image 20260126205748.png",
-    "Pasted image 20260126205719.png",
     "中科大电控/STM32单片机环境配置/stm32&stm8单片机产品型号.md",
     "中科大电控/GPIO输出电压",
     "中科大电控/未命名",
@@ -273,21 +354,10 @@
     "MG513P30带霍尔编码器/数据手册.md",
     "PWM与编码器/最好的搭配.md",
     "PWM与编码器/编码器.md",
-    "C语言/左移与右移.md",
     "未命名/未命名.md",
     "C语言",
     "定时器TIM/注意事项.md",
     "PWM与编码器/计数频率与周期.md",
-    "PWM与编码器/补充知识.md",
-    "PWM与编码器/2.问题与疑惑.md",
-    "PWM与编码器/1.认知概念.md",
-    "stmf4四轮/Encoder.md",
-    "stmf4四轮/PWM.md",
-    "stmf4四轮/TIM.md",
-    "Snipaste/截图软件.md",
-    "Snipaste",
-    "定时器TIM",
-    "Keil5",
-    "MG513P30带霍尔编码器"
+    "Snipaste"
   ]
 }
