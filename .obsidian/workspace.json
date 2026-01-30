@@ -209,16 +209,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WHEELTEC/未命名.md",
+                "file": "WHEELTEC/飞行器运动分析与PID输出整合.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "飞行器运动分析与PID输出整合"
+            }
+          },
+          {
+            "id": "dbcce7272208e657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHEELTEC/飞行器基础油门获取.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "飞行器基础油门获取"
+            }
+          },
+          {
+            "id": "0488d84ee8d4b3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHEELTEC/PID参数及极性评估说明.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PID参数及极性评估说明"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -381,14 +409,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bd7e8519ef2cc98",
+  "active": "0488d84ee8d4b3e7",
   "lastOpenFiles": [
+    "Pasted image 20260129211922.png",
+    "Pasted image 20260129174405.png",
+    "Pasted image 20260129173515.png",
+    "Pasted image 20260129173130.png",
+    "Pasted image 20260129144545.png",
+    "WHEELTEC/飞行器基础油门获取.md",
+    "WHEELTEC/PID参数及极性评估说明.md",
+    "未命名",
+    "Pasted image 20260129140444.png",
+    "Pasted image 20260129135638.png",
+    "WHEELTEC/飞行器运动分析与PID输出整合.md",
+    "Pasted image 20260129130147.png",
+    "Pasted image 20260129125134.png",
     "C语言/常量与宏定义/概念.md",
-    "WHEELTEC/未命名.md",
     "Pasted image 20260129010901.png",
     "Pasted image 20260129010659.png",
-    "Pasted image 20260129010014.png",
-    "Pasted image 20260129005848.png",
     "WHEELTEC/PID及串级PID.md",
     "中科大电控/TIM定时器中断/概念.md",
     "中科大电控/TIM定时器中断/程序.md",
@@ -397,15 +435,8 @@
     "PWM与编码器/最好的搭配.md",
     "PWM与编码器/2.问题与疑惑.md",
     "中科大电控/TIM定时器中断/作业.md",
-    "Pasted image 20260128155310.png",
-    "Pasted image 20260128155238.png",
-    "Pasted image 20260128155036.png",
-    "Pasted image 20260128154959.png",
-    "Pasted image 20260128152018.png",
-    "Pasted image 20260128151529.png",
     "中科大电控/GPIO输出电压/单片机的结构.md",
     "中科大电控/EXTI外部中断/NVIC.md",
-    "未命名",
     "中科大电控/TIM定时器中断",
     "WHEELTEC/Freertos程序.md",
     "WHEELTEC/陀螺仪（ICM20948）.md",
@@ -420,12 +451,9 @@
     "C语言/变量",
     "防按键误触/按键消抖.md",
     "中科大电控/EXTI外部中断/按键消抖.md",
-    "防按键误触/按键的上锁与解锁.md",
     "中科大电控/EXTI外部中断",
-    "中科大电控/STM32单片机环境配置/stm32&stm8单片机产品型号.md",
     "中科大电控/GPIO输出电压",
     "中科大电控/未命名",
-    "中科大电控/STM32单片机环境配置/robomasker.md",
     "中科大电控/STM32单片机环境配置",
     "中科大电控",
     "中科大电控/提问的智慧"
