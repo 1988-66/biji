@@ -300,9 +300,65 @@
               "icon": "lucide-file",
               "title": "程序"
             }
+          },
+          {
+            "id": "120488c05782074b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HKSU/主控板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "主控板"
+            }
+          },
+          {
+            "id": "b07f3040d1d9f817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HKSU/主控板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "主控板"
+            }
+          },
+          {
+            "id": "d28cd3f8f0a247e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HKSU/硬件/需求.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "需求"
+            }
+          },
+          {
+            "id": "9c38d2822ccf346e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HKSU/硬件/原理图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "原理图"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -465,25 +521,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9650b79bd395fa0c",
+  "active": "9c38d2822ccf346e",
   "lastOpenFiles": [
-    "Pasted image 20260131222613.png",
-    "Pasted image 20260131222345.png",
-    "Pasted image 20260131222136.png",
-    "Pasted image 20260131221218.png",
-    "Pasted image 20260131220717.png",
-    "Pasted image 20260131215511.png",
-    "中科大电控/UART通信/概念.md",
+    "Pasted image 20260201165207.png",
+    "Pasted image 20260201163121.png",
+    "HKSU/硬件/需求.md",
+    "HKSU/硬件/原理图.md",
+    "HKSU/主控板.md",
+    "Pasted image 20260201152714.png",
+    "Pasted image 20260201152616.png",
+    "Pasted image 20260201152205.png",
+    "Pasted image 20260201151919.png",
+    "Pasted image 20260201151328.png",
+    "Pasted image 20260201150936.png",
+    "Pasted image 20260201150256.png",
+    "Pasted image 20260201145834.png",
+    "Pasted image 20260201145642.png",
+    "HKSU/硬件/Layout.md",
+    "HKSU/软件",
+    "HKSU/硬件",
     "中科大电控/UART通信/程序.md",
-    "Pasted image 20260131202605.png",
-    "Pasted image 20260131201032.png",
-    "Pasted image 20260131200833.png",
-    "Pasted image 20260131183410.png",
-    "Pasted image 20260131183349.png",
+    "HKSU",
+    "中科大电控/UART通信/概念.md",
     "中科大电控/TIM定时器中断/程序.md",
     "中科大电控/GPIO输出电压/单片机的结构.md",
     "中科大电控/TIM定时器中断/作业.md",
-    "未命名",
     "中科大电控/UART通信",
     "C语言/数据类型/程序.md",
     "C语言/数据类型/概念.md",
@@ -503,15 +565,9 @@
     "中科大电控/TIM定时器中断",
     "WHEELTEC/Freertos程序.md",
     "WHEELTEC/陀螺仪（ICM20948）.md",
-    "WHEELTEC/飞行器的无刷电机控制.md",
-    "WHEELTEC/电压与电流的数据采集.md",
-    "WHEELTEC/飞行高度获取.md",
-    "C语言/变量/变量概念.md",
     "C语言/常量与宏定义",
     "C语言/变量",
     "中科大电控/EXTI外部中断",
-    "中科大电控/GPIO输出电压",
-    "中科大电控/UART通信",
-    "中科大电控/STM32单片机环境配置"
+    "中科大电控/GPIO输出电压"
   ]
 }
