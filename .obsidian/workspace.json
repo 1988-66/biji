@@ -377,6 +377,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PWM与编码器/2.问题与疑惑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.问题与疑惑"
+            }
+          },
+          {
+            "id": "19927ea1b207ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stmf4四轮/软件/编码器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "编码器"
+            }
+          },
+          {
+            "id": "72c5a35ac50c944f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "HKSU/硬件/原理图.md",
                 "mode": "source",
                 "source": false
@@ -386,7 +414,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -549,8 +577,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcfd7c1d068b28d6",
+  "active": "72c5a35ac50c944f",
   "lastOpenFiles": [
+    "Pasted image 20260206142900.png",
+    "stmf4四轮/软件/编码器.md",
+    "stmf4四轮/硬件/未命名.md",
+    "stmf4四轮/硬件",
+    "PWM与编码器/2.问题与疑惑.md",
+    "stmf4四轮/软件",
+    "PWM与编码器/1.认知概念.md",
+    "PWM与编码器/补充知识.md",
+    "PWM与编码器/计数频率与周期.md",
+    "PWM与编码器/最好的搭配.md",
+    "stmf4四轮/TIM.md",
+    "stmf4四轮/Encoder.md",
+    "stmf4四轮/PWM.md",
+    "HKSU/硬件/原理图.md",
     "Pasted image 20260204194010.png",
     "Pasted image 20260204193527.png",
     "Pasted image 20260204193435.png",
@@ -564,9 +606,7 @@
     "C语言/取值范围",
     "Pasted image 20260203221107.png",
     "Pasted image 20260203220713.png",
-    "Pasted image 20260203220254.png",
     "WHEELTEC/PID参数及极性评估说明.md",
-    "HKSU/硬件/原理图.md",
     "中科大电控/UART通信/程序.md",
     "HKSU/硬件/需求.md",
     "HKSU/主控板.md",
@@ -583,19 +623,7 @@
     "C语言/数据类型/概念.md",
     "C语言/常量与宏定义/概念.md",
     "C语言/数据类型",
-    "WHEELTEC/USB手柄遥控数据获取.md",
-    "WHEELTEC/PID及串级PID.md",
-    "WHEELTEC/飞行器基础油门获取.md",
-    "WHEELTEC/飞行器运动分析与PID输出整合.md",
-    "中科大电控/TIM定时器中断/概念.md",
-    "PWM与编码器/编码器.md",
-    "PWM与编码器/计数频率与周期.md",
-    "PWM与编码器/最好的搭配.md",
-    "PWM与编码器/2.问题与疑惑.md",
-    "中科大电控/EXTI外部中断/NVIC.md",
     "中科大电控/TIM定时器中断",
-    "C语言/常量与宏定义",
-    "C语言/变量",
-    "中科大电控/EXTI外部中断"
+    "C语言/常量与宏定义"
   ]
 }
