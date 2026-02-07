@@ -412,9 +412,21 @@
               "icon": "lucide-file",
               "title": "原理图"
             }
+          },
+          {
+            "id": "9188ef628a1c51d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -577,8 +589,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72c5a35ac50c944f",
+  "active": "9188ef628a1c51d2",
   "lastOpenFiles": [
+    "Pasted image 20260206202653.png",
+    "HKSU/硬件/需求.md",
+    "Pasted image 20260206194309.png",
+    "HKSU/硬件/原理图.md",
+    "Pasted image 20260206193511.png",
+    "Pasted image 20260206185641.png",
     "Pasted image 20260206142900.png",
     "stmf4四轮/软件/编码器.md",
     "stmf4四轮/硬件/未命名.md",
@@ -592,7 +610,6 @@
     "stmf4四轮/TIM.md",
     "stmf4四轮/Encoder.md",
     "stmf4四轮/PWM.md",
-    "HKSU/硬件/原理图.md",
     "Pasted image 20260204194010.png",
     "Pasted image 20260204193527.png",
     "Pasted image 20260204193435.png",
@@ -600,15 +617,10 @@
     "Pasted image 20260204190308.png",
     "Pasted image 20260204181834.png",
     "C语言/取值范围/概念.md",
-    "Pasted image 20260203233348.png",
-    "Pasted image 20260203225856.png",
     "WHEELTEC/飞行器代码优化.md",
     "C语言/取值范围",
-    "Pasted image 20260203221107.png",
-    "Pasted image 20260203220713.png",
     "WHEELTEC/PID参数及极性评估说明.md",
     "中科大电控/UART通信/程序.md",
-    "HKSU/硬件/需求.md",
     "HKSU/主控板.md",
     "HKSU/硬件/Layout.md",
     "HKSU/软件",
